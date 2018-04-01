@@ -125,5 +125,11 @@
   <ItemGroup>
     <None Include="Resources\NGGUU_2.mp4" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.mp4" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
